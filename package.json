@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "effects-basics",
+=======
+  "name": "data-fetching",
+>>>>>>> recover-lost-work
   "private": true,
   "version": "0.0.0",
   "type": "module",

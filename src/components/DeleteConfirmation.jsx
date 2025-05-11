@@ -1,11 +1,20 @@
+<<<<<<< HEAD
 import { useEffect, useState } from "react";
 import ProgressBar from "./ProgressBar";
+=======
+import { useEffect } from 'react';
+
+import ProgressBar from './ProgressBar.jsx';
+>>>>>>> recover-lost-work
 
 const TIMER = 3000;
 
 export default function DeleteConfirmation({ onConfirm, onCancel }) {
   useEffect(() => {
+<<<<<<< HEAD
     console.log("TImer Set");
+=======
+>>>>>>> recover-lost-work
     const timer = setTimeout(() => {
       onConfirm();
     }, TIMER);
