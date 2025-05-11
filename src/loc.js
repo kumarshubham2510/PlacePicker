@@ -22,11 +22,7 @@ export function sortPlacesByDistance(places, lat, lon) {
   sortedPlaces.sort((a, b) => {
     const distanceA = calculateDistance(lat, lon, a.lat, a.lon);
     const distanceB = calculateDistance(lat, lon, b.lat, b.lon);
-<<<<<<< HEAD
-    return distanceB - distanceA;
-=======
     return distanceA - distanceB;
->>>>>>> recover-lost-work
   });
   return sortedPlaces;
 }

@@ -206,8 +206,6 @@ header p {
   animation: slide-down-fade-in 0.3s ease-out forwards;
 }
 
-<<<<<<< HEAD
-=======
 .center {
   text-align: center;
 }
@@ -224,7 +222,6 @@ header p {
   margin: auto;
 }
 
->>>>>>> recover-lost-work
 @keyframes slide-down-fade-in {
   from {
     opacity: 0;
