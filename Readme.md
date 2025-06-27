@@ -1,7 +1,8 @@
 # 🗺️ PlacePicker
 
 **PlacePicker** is a location-based travel planning web application built with **React.js**. It uses your **current location (with permission)** to find and sort nearby tourist attractions, letting you explore and bookmark places for future travel plans — all from your browser.
-![image](https://github.com/user-attachments/assets/fa6a12d4-16dd-4a9e-9417-a349313d6f0e)
+![image](https://github.com/user-attachments/assets/5b486e36-6ffc-4acb-96c3-dbe9a230b465)
+
 
 
 
